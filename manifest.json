@@ -3,17 +3,17 @@
   "name": "Create React App Sample",
   "icons": [
     {
-      "src": "favicon.ico",
+      "src": "heco-react-ghpages/favicon.ico",
       "sizes": "256x256 128x128 96x96 64x64 48x48 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
     {
-      "src": "logo192.png",
+      "src": "heco-react-ghpages/logo192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "logo512.png",
+      "src": "heco-react-ghpages/logo512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
