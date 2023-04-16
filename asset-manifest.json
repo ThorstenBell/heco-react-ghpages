@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/heco-react-ghpages/static/css/main.a3081f5d.css",
-    "main.js": "/heco-react-ghpages/static/js/main.61bf3f05.js",
+    "main.js": "/heco-react-ghpages/static/js/main.9b86cc4a.js",
     "static/js/787.d268731b.chunk.js": "/heco-react-ghpages/static/js/787.d268731b.chunk.js",
     "static/media/header1.jpg": "/heco-react-ghpages/static/media/header1.27c2a4da20bdb4c8a961.jpg",
     "static/media/header3.jpg": "/heco-react-ghpages/static/media/header3.61b0f8fc37daac3158b3.jpg",
@@ -22,11 +22,11 @@
     "static/media/HecoPath.svg": "/heco-react-ghpages/static/media/HecoPath.06bf4a5fe6560babbb3a50d749a0c54c.svg",
     "static/media/HecoCost.svg": "/heco-react-ghpages/static/media/HecoCost.1a39492e9722272cb501148a80c9207f.svg",
     "main.a3081f5d.css.map": "/heco-react-ghpages/static/css/main.a3081f5d.css.map",
-    "main.61bf3f05.js.map": "/heco-react-ghpages/static/js/main.61bf3f05.js.map",
+    "main.9b86cc4a.js.map": "/heco-react-ghpages/static/js/main.9b86cc4a.js.map",
     "787.d268731b.chunk.js.map": "/heco-react-ghpages/static/js/787.d268731b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a3081f5d.css",
-    "static/js/main.61bf3f05.js"
+    "static/js/main.9b86cc4a.js"
   ]
 }
