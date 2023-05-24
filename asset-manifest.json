@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/heco-react-ghpages/static/css/main.dc365170.css",
-    "main.js": "/heco-react-ghpages/static/js/main.c1673683.js",
+    "main.css": "/heco-react-ghpages/static/css/main.ff87eed8.css",
+    "main.js": "/heco-react-ghpages/static/js/main.e16d88cc.js",
     "static/js/787.d268731b.chunk.js": "/heco-react-ghpages/static/js/787.d268731b.chunk.js",
     "static/media/header1.jpg": "/heco-react-ghpages/static/media/header1.27c2a4da20bdb4c8a961.jpg",
     "static/media/header3.jpg": "/heco-react-ghpages/static/media/header3.61b0f8fc37daac3158b3.jpg",
@@ -10,23 +10,25 @@
     "static/media/HecoPath.jpg": "/heco-react-ghpages/static/media/HecoPath.ec88bfc546c5a694cad3.jpg",
     "static/media/HeConnect.jpg": "/heco-react-ghpages/static/media/HeConnect.63af0df6c9acc08d0e4d.jpg",
     "static/media/header2.jpg": "/heco-react-ghpages/static/media/header2.0f08529f8829966a7238.jpg",
+    "static/media/HecoSAILR.jpg": "/heco-react-ghpages/static/media/HecoSAILR.1851f20dba471b1719fa.jpg",
     "static/media/HecoCalc.jpg": "/heco-react-ghpages/static/media/HecoCalc.ab67999425e3299755b3.jpg",
     "static/media/HecoCost.jpg": "/heco-react-ghpages/static/media/HecoCost.02062f403a7d9ded5cfe.jpg",
-    "static/media/HecoSAILR.jpg": "/heco-react-ghpages/static/media/HecoSAILR.8cb3533d25d5052b8d61.jpg",
+    "static/media/betterfutures.png": "/heco-react-ghpages/static/media/betterfutures.2f133254e8a137577873.png",
     "static/media/logo.svg": "/heco-react-ghpages/static/media/logo.b576cc7a0328c95ee5d03b79d72e550c.svg",
-    "static/media/HecoCalc.svg": "/heco-react-ghpages/static/media/HecoCalc.fcbeb019d22215195d22924e12fadbbe.svg",
-    "static/media/HecoMap.svg": "/heco-react-ghpages/static/media/HecoMap.a5326e9b1e1b83eef59b544150f1bdda.svg",
-    "static/media/HeConnect.svg": "/heco-react-ghpages/static/media/HeConnect.39084651c224b94bbad0aa38f0c00574.svg",
-    "static/media/HecoSAILR.svg": "/heco-react-ghpages/static/media/HecoSAILR.823ff2cbb8343f074b32f57d3756b85f.svg",
+    "static/media/HecoCalc.svg": "/heco-react-ghpages/static/media/HecoCalc.f3fc483b3eaf90439a2089d0c9253dc6.svg",
+    "static/media/HecoMap.svg": "/heco-react-ghpages/static/media/HecoMap.4e6cc92f6a04cea69c7b60c793698d06.svg",
+    "static/media/HeConnect.svg": "/heco-react-ghpages/static/media/HeConnect.b24083e8a67aa9184709cc22bc72a192.svg",
+    "static/media/HecoSAILR.svg": "/heco-react-ghpages/static/media/HecoSAILR.36ce3847e2f60f26824c816535e7a020.svg",
     "index.html": "/heco-react-ghpages/index.html",
-    "static/media/HecoPath.svg": "/heco-react-ghpages/static/media/HecoPath.06bf4a5fe6560babbb3a50d749a0c54c.svg",
-    "static/media/HecoCost.svg": "/heco-react-ghpages/static/media/HecoCost.1a39492e9722272cb501148a80c9207f.svg",
-    "main.dc365170.css.map": "/heco-react-ghpages/static/css/main.dc365170.css.map",
-    "main.c1673683.js.map": "/heco-react-ghpages/static/js/main.c1673683.js.map",
+    "static/media/QuoteMark.svg": "/heco-react-ghpages/static/media/QuoteMark.0660a268066e77b3b6f4b20be751edc6.svg",
+    "static/media/HecoPath.svg": "/heco-react-ghpages/static/media/HecoPath.5f4067f64a7714765c204eeb7a20dbe9.svg",
+    "static/media/HecoCost.svg": "/heco-react-ghpages/static/media/HecoCost.590123ff14b8a4c34ff02d5c33b9f1c2.svg",
+    "main.ff87eed8.css.map": "/heco-react-ghpages/static/css/main.ff87eed8.css.map",
+    "main.e16d88cc.js.map": "/heco-react-ghpages/static/js/main.e16d88cc.js.map",
     "787.d268731b.chunk.js.map": "/heco-react-ghpages/static/js/787.d268731b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dc365170.css",
-    "static/js/main.c1673683.js"
+    "static/css/main.ff87eed8.css",
+    "static/js/main.e16d88cc.js"
   ]
 }
